@@ -25,12 +25,12 @@ html#aboutme {
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
   margin: 0;
+  line-height: 1;
+
 } 
-img {
-    height: 100px;
-    width: 100px;
-    float: left;
-    padding-left: 1px;
+figure {
+   max-width: 100%;
+   text-align: center;
 }
 h1{
    text-align: center; 
