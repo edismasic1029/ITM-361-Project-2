@@ -63,3 +63,11 @@ h2 {
     color: white;
     padding: 1em;
   }
+
+  nav {
+    text-align: center;
+    margin: auto;
+    background-color: turquoise;
+    color: white;
+    padding: 1em;
+  }
