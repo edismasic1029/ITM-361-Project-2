@@ -14,13 +14,13 @@ html {
   line-height: 1.1666666667em; /* 28/24px= 1.1666666667 em*/
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
-  background-color: #a1fadf;
+  background-color: teal;
 }
 html#resume {
-  background-color: #a1fadf;
+  background-color: teal;
 }
 html#aboutme {
-  background-color: #a1fadf;
+  background-color: teal;
 }
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
@@ -32,3 +32,34 @@ img {
     float: right;
     padding-left: 2px;
 }
+h1{
+   text-align: center; 
+   color: white;
+   background-color: turquoise;
+   padding: 1em;
+   margin:auto ;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
+    background-color: #a6edf7;
+    color: white;
+    padding: 1em;
+  }
+
+  h3 {
+    text-align: center;
+    margin: auto;
+    background-color: #a6edf7;
+    color: white;
+    padding: 1em;
+  }
+
+  h4 {
+    text-align: center;
+    margin: auto;
+    background-color: #a6edf7;
+    color: white;
+    padding: 1em;
+  }
