@@ -22,11 +22,15 @@ html#resume {
 html#aboutme {
   background-color: teal;
 }
+html#index.html
+{
+  background-color: beige;
+}
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
   margin: 0;
   line-height: 1;
-
+  color: white;
 } 
 figure {
    max-width: 100%;
@@ -35,7 +39,7 @@ figure {
 }
 h1{
    text-align: center; 
-   color: white;
+   color: black;
    background-color: turquoise;
    padding: 1em;
    margin:auto ;
@@ -45,7 +49,7 @@ h2 {
     text-align: center;
     margin: auto;
     background-color: turquoise;
-    color: white;
+    color: black;
     padding: 1em;
   }
 
@@ -53,7 +57,7 @@ h2 {
     text-align: center;
     margin: auto;
     background-color: turquoise;
-    color: white;
+    color: black;
     padding: 1em;
   }
 
@@ -61,7 +65,7 @@ h2 {
     text-align: center;
     margin: auto;
     background-color: turquoise;
-    color: white;
+    color: black;
     padding: 1em;
   }
 
