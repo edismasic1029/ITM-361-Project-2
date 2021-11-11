@@ -22,14 +22,11 @@ html#resume {
 html#aboutme {
   background-color: teal;
 }
-html#index.html
-{
-  background-color: beige;
-}
+
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
   margin: 0;
-  line-height: 1;
+  line-height: 1.5;
   color: white;
 } 
 figure {
