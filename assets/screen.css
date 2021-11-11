@@ -31,6 +31,7 @@ body {
 figure {
    max-width: 100%;
    text-align: center;
+   display: block;
 }
 h1{
    text-align: center; 
