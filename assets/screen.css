@@ -71,6 +71,11 @@ h2 {
     color: white;
     padding: 1em;
   }
+
+footer{
+  text-align: end;
+}
+
   @media screen and (min-width: 36.875em) {
     main {
       flex-direction: column;
