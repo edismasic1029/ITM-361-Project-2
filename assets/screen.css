@@ -16,12 +16,7 @@ html {
   padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
   background-color: teal;
 }
-html#resume {
-  background-color: grey;
-}
-html#aboutme {
-  background-color: grey;
-}
+
 
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
@@ -38,7 +33,7 @@ figure {
 h1{
    text-align: center; 
    color: black;
-   background-color: turquoise;
+   background-color: grey;
    padding: 1em;
    margin:auto ;
 }
