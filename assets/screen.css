@@ -28,6 +28,7 @@ body {
   margin: 0;
   line-height: 1.75;
   color: white;
+  text-align: center;
 } 
 figure {
    max-width: 100%;
@@ -76,6 +77,11 @@ h2 {
 
 footer{
   text-align: end;
+}
+
+ul{
+  margin-left: 1em;
+  list-style-type: circle;
 }
 
   @media screen and (min-width: 36.875em) {
