@@ -23,6 +23,7 @@ body {
   line-height: 1.75;
   color: white;
   text-align: center;
+  background-color: teal;
 } 
 figure {
    max-width: 100%;
@@ -32,7 +33,7 @@ figure {
 h1{
    text-align: center; 
    color: black;
-   background-color: white;
+   background-color: teal;
    padding: 1em;
    margin:auto ;
 }
