@@ -14,7 +14,7 @@ html {
   line-height: 1.1666666667em; /* 28/24px= 1.1666666667 em*/
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
-  background-color: grey;
+  background-color: beige;
 }
 
 
@@ -23,7 +23,7 @@ body {
   margin: 0;
   line-height: 1.75;
   text-align: center;
-  background-color: beige;
+  background-color: black;
 } 
 figure {
    max-width: 100%;
