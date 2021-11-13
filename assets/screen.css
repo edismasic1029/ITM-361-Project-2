@@ -24,6 +24,7 @@ body {
   line-height: 1.75;
   text-align: center;
   background-color: beige;
+  color: black;
 } 
 figure {
    max-width: 100%;
