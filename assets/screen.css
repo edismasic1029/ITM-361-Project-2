@@ -9,82 +9,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 
-
-body {
-  padding: 0.5em; /* 12/24px= 0.5 em*/
-  margin: 0;
-  line-height: 1.75;
-  color: black;
-  text-align: center;
-} 
-figure {
-   max-width: 100%;
-   text-align: center;
-   display: block;
-}
-h1{
-   text-align: center; 
-   color: black;
-   background-color: white;
-   padding: 1em;
-   margin:auto ;
-}
-
-h2 {
-    text-align: center;
-    margin: auto;
-    background-color: turquoise;
-    color: white;
-    padding: 1em;
-  }
-
-  h3 {
-    text-align: center;
-    margin: auto;
-    background-color: turquoise;
-    color: white;
-    padding: 1em;
-  }
-
-  h4 {
-    text-align: center;
-    margin: auto;
-    background-color: turquoise;
-    color: white;
-    padding: 1em;
-  }
-
-  nav {
-    text-align: center;
-    margin: auto;
-    background-color: turquoise;
-    color: white;
-    padding: 1em;
-  }
-
-footer{
-  text-align: end;
-}
-
-ul{
-  margin-left: 1em;
-  list-style-type: circle;
-}
-
-  @media screen and (min-width: 36.875em) {
-    main {
-      flex-direction: column;
-    }
-  
-    #navigation {
-      flex-direction: column;
-    }
-  }
-  
-  @media screen and (min-width: 50em) {
-    main {
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-    }
+html {
+  font-size: 1.5em; /* 24/16px= 1.5 em*/
+  line-height: 1.1666666667em; /* 28/24px= 1.1666666667 em*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
+  background-color: grey;
 }
