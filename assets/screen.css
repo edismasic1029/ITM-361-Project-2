@@ -14,7 +14,7 @@ html {
   line-height: 1.1666666667em; /* 28/24px= 1.1666666667 em*/
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
-  background-color: beige;
+  background-color: black;
 }
 
 
@@ -23,7 +23,7 @@ body {
   margin: 0;
   line-height: 1.75;
   text-align: center;
-  background-color: black;
+  background-color: beige;
 } 
 figure {
    max-width: 100%;
@@ -33,7 +33,7 @@ figure {
 h1{
    text-align: center; 
    color: black;
-   background-color: black;
+   background-color: beige;
    padding: 1em;
    margin:auto ;
 }
@@ -41,7 +41,7 @@ h1{
 h2 {
     text-align: center;
     margin: auto;
-    background-color: black;
+    background-color: beige;
     color: white;
     padding: 1em;
   }
@@ -49,7 +49,7 @@ h2 {
   h3 {
     text-align: center;
     margin: auto;
-    background-color: black;
+    background-color: beige;
     color: white;
     padding: 1em;
   }
@@ -57,7 +57,7 @@ h2 {
   h4 {
     text-align: center;
     margin: auto;
-    background-color: black;
+    background-color: beige;
     color: white;
     padding: 1em;
   }
@@ -65,7 +65,7 @@ h2 {
   nav {
     text-align: center;
     margin: auto;
-    background-color: black;
+    background-color: beige;
     color: black;
     padding: 1em;
   }
