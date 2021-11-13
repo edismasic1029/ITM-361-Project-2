@@ -16,6 +16,9 @@ html {
   padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
   background-color: grey;
 }
+title{
+background-color: grey;
+}
 
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
