@@ -16,6 +16,15 @@ html {
   padding: 0.6666666667em; /* 16/24px= 0.6666666667 em*/
   background-color: grey;
 }
+
+html#About {
+  background-color: teal;
+}
+html#myresume {
+  background-color: teal;
+}
+
+
 title{
 background-color: grey;
 }
