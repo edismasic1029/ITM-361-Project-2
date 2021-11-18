@@ -27,7 +27,7 @@ body {
   color: black;
 } 
 figure {
-   max-width: 50%;
+   max-width: 100%;
    text-align: center;
    display: block;
    height: auto;
