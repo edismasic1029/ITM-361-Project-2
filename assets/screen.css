@@ -90,7 +90,7 @@ ul{
     }
   }
   
-  @media screen and (min-width: 50em) {
+  @media screen and (min-width: 25em) {
     main {
       flex-direction: row;
       align-items: center;
