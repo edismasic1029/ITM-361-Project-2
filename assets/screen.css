@@ -27,10 +27,11 @@ body {
   color: black;
 } 
 figure {
-   max-width: 200%;
+   
+   width: 300px;
    text-align: center;
    display: block;
-   height: auto;
+   height: 300px;
 }
 h1{
    text-align: center; 
