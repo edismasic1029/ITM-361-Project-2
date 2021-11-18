@@ -30,6 +30,7 @@ figure {
    max-width: 50%;
    text-align: center;
    display: block;
+   height: auto;
 }
 h1{
    text-align: center; 
