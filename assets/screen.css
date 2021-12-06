@@ -38,12 +38,9 @@ figure {
     display: block;
     margin: 10px;
     flex: 999 999 auto;
-  }
-  .item {
-    flex: 0 0 auto;
-    margin: 10px;
-  }
+
 }
+
 h1{
    text-align: center; 
    color: black;
@@ -91,24 +88,5 @@ footer{
 ul{
   margin-left: 1em;
   list-style-type: circle;
-}
-
-  @media screen and (min-width: 360px) {
-    figure{
-      flex-direction: column;
-      justify-content: space-between;
-    }
-  
-    #navigation {
-      flex-direction: column;
-    }
-  }
-  
-  @media screen and (min-width: 480px) {
-    figure {
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-    }
 }
 
