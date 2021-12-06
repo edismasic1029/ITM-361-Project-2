@@ -30,9 +30,9 @@ figure {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
     align-items: auto;
-    align-content: start
+    align-content: center
   }
   figure:after {
     display: block;
