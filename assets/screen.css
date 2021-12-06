@@ -33,8 +33,7 @@ figure {
     justify-content: center;
     align-items: center;
     align-content: center
-    width: 200px;
-    height: 120px;
+   
   }
   figure:after {
     display: block;
@@ -102,7 +101,11 @@ ul{
 
 @media screen and (min-width: 360px) {
   figure{
-    flex-direction: column;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center
   }
 
   nav {
