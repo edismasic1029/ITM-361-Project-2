@@ -32,9 +32,9 @@ figure {
   flex-direction: row;
   justify-content: space-between;
   align-items: auto;
-  align-content: start
+  align-content: left
   flex: 0 0 auto;
-  margin: 3px;
+  margin: 1px;
 }
 h1{
    text-align: center; 
