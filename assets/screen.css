@@ -31,7 +31,7 @@ figure {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
-    align-items: auto;
+    align-items: center;
     align-content: center
   }
   figure:after {
@@ -74,11 +74,16 @@ h2 {
   }
 
   nav {
-    text-align: center;
-    margin: auto;
-    background-color: beige;
-    color: black;
-    padding: 1em;
+    background: #0099CC;
+    color: #FFF;
+    height: 35px;
+    padding-left: 18px;
+    border-radius: 15px;
+  }
+   nav {
+    margin: 0 auto;
+    padding: 0;
+    list-style: none
   }
 
 footer{
