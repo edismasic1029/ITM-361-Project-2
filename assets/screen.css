@@ -27,14 +27,11 @@ body {
   color: black;
 } 
 figure {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: auto;
-  align-content: left
-  flex: 0 0 auto;
-  margin: 1px;
+  max-width: 100%;
+  text-align: center;
+  display: block;
+  height: auto;
+
 }
 h1{
    text-align: center; 
@@ -88,6 +85,11 @@ ul{
   @media screen and (min-width: 360px) {
     figure{
       flex-direction: column;
+      justify-content: space-between;
+      align-items: auto;
+      align-content: center
+      flex: 0 0 auto;
+      margin: 1px;
     }
   
     #navigation {
