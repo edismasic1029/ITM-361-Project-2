@@ -27,11 +27,20 @@ body {
   color: black;
 } 
 figure {
-  max-width: 100%;
-  text-align: center;
-  display: block;
-  height: auto;
-
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: auto;
+    align-content: start
+  }
+  figure:after {
+    display: block;
+    content: " placeholder ";
+    margin: 10px;
+    flex: 999 999 auto;
+  }
+ 
 }
 h1{
    text-align: center; 
@@ -86,10 +95,6 @@ ul{
     figure{
       flex-direction: column;
       justify-content: space-between;
-      align-items: auto;
-      align-content: center
-      flex: 0 0 auto;
-      margin: 1px;
     }
   
     #navigation {
