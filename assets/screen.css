@@ -39,7 +39,10 @@ figure {
     margin: 10px;
     flex: 999 999 auto;
   }
- 
+  .item {
+    flex: 0 0 auto;
+    margin: 10px;
+  }
 }
 h1{
    text-align: center; 
