@@ -27,10 +27,14 @@ body {
   color: black;
 } 
 figure {
-   max-width: 100%;
-   text-align: center;
-   display: block;
-   height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: auto;
+  align-content: start
+  flex: 0 0 auto;
+  margin: 1px;
 }
 h1{
    text-align: center; 
@@ -99,21 +103,3 @@ ul{
     }
 }
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: auto;
-  align-content: start
-}
-.container:after {
-  display: block;
-  content: " placeholder ";
-  margin: 1px;
-  flex: 999 999 auto;
-}
-.item {
-  flex: 0 0 auto;
-  margin: 1px;
-}
