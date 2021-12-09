@@ -78,7 +78,8 @@ h2 {
     background: black;
     height: 10px;
     padding-left: 18px;
-    
+    border-radius: 10px;
+    display: block;
     
   }
    nav {
