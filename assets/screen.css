@@ -21,6 +21,7 @@ html {
 body {
   padding: 0.5em; /* 12/24px= 0.5 em*/
   margin: 0;
+  margin-bottom: auto;
   line-height: 1.75;
   text-align: center;
   background-color: beige;
